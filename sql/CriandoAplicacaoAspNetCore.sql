@@ -1,3 +1,5 @@
+-- Script para criação da tabela
+
 CREATE DATABASE CriandoAplicacaoAspNetCore
 GO
 
